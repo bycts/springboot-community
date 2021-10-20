@@ -6,7 +6,7 @@
  响应式设计
  API级别
  
- 使用了什么技术
+ 使用的技术
  springboot idea开发 快捷键   github
  bootstrap设计前端
  Mysql H2数据库
@@ -18,7 +18,7 @@
  profile
  
  功能实现：
- 登录功能：使用github的授权实现登录功能
+ 登录功能：使用github的授权实现登录功能  使用了okHttp完成了get/post请求 https://square.github.io/okhttp/
  
  访问项目
  ```

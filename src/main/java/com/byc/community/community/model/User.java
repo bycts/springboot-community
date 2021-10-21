@@ -1,18 +1,18 @@
 package com.byc.community.community.model;
 
 public class User {
-    private Long id;
+    private Integer id;
     private String accountId;
     private String name;
     private String token;
     private Long gmtCreate;
     private Long gmtModified;
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

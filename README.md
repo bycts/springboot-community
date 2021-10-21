@@ -25,6 +25,8 @@
   ```
  登录功能：使用github的授权实现登录功能  使用了okHttp完成了get/post请求 https://square.github.io/okhttp/
  数据库连接：h2数据库 集成mybatis
+ 集成Flyway自动管理版本 轻松管理数据库   mvn:flyway:migrate
+文章发布功能：publish.html
 ```
  
  访问项目
